@@ -1,4 +1,11 @@
-## Hi there 👋
+
+Welcome!  I am a quantitative social scientist with over 15 years of professional experience in analytical policy research, experimental and quasi-experimental impact evaluations, applied statistics, and mixed-methods research. I have designed or managed more than two dozen large-scale field research projects on policy-relevant issues across a wide range of sectors and regions. Since 2021, I have led Social Impact’s Data Science team, managing several large-scale data science and AI-based research projects.  
+
+I am the past recipient of research grants from the National Science Foundation, the International Growth Center, the Folke Bernadotte Academy, and the Experiments in Governance and Politics network. My research has been published in journals such as *American Political Science Review*, *Science*, *Comparative Political Studies*, *British Journal of Political Science*, *BMJ Global Health*, and *Social Science and Medicine*. 
+
+I hold a Ph.D. in Political Science from the Massachusetts Institute of Technology and a B.A. in Government from Colby College.
+
+
 
 <!--
 **bensmorse/bensmorse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
